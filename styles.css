@@ -168,3 +168,9 @@ button {
         grid-template-columns: 1fr;
     }
 }
+
+.logo-header img {
+    width: 45px;
+    height: 45px;
+    object-fit: contain;
+}
